@@ -1,7 +1,8 @@
 {
   "headers":{
-    "/*": {
-      "X-Author": "salkrid"
+    "/*": 
+      "X-Author": "salkrid",
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
